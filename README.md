@@ -32,7 +32,17 @@
 ---
 
 ## 📁 Project Structure
-Sonix/ ├── assets/           # Icons, images, fonts ├── components/       # Reusable UI components (Layout, Header, etc.) ├── screens/          # App screens (Home, Search, Playback) ├── navigation/       # Stack and tab navigators ├── utils/            # Mock data and helpers ├── App.tsx           # Entry point └── README.md         # You're reading it!
+Sonix/
+├── assets/           # Icons, images, fonts
+├── components/       # Layout.tsx, Header, etc.
+├── screens/          # Home, Search, Playback
+├── navigation/       # Stack and tab navigators
+├── utils/            # Mock data and helpers
+├── release/          # Final APK file
+├── App.tsx           # Entry point
+├── README.md         # Submission showcase
+├── eas.json          # EAS build config
+└── .gitignore        # Clean repo
 
 📱 Scan the QR code with Expo Go or run on Android/iOS emulator.
 
