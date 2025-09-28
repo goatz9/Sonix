@@ -45,7 +45,8 @@ Sonix/
 └── .gitignore        # Clean repo
 
 📱 Scan the QR code with Expo Go or run on Android/iOS emulator.
-
+🔗 Download Sonix APK via Expo Build
+(https://expo.dev/accounts/man0908/projects/Sonix/builds/922d62d7-db45-4f97-a18f-421cd174f0e7 )
 
 APK Submission
 - ✅ Built using eas build --platform android
