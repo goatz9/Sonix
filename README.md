@@ -13,7 +13,7 @@
 - 🎨 **Custom layout system** with theme-aware styling
 - 📱 **Mobile-first design** using React Native + Expo
 - 🧪 **Error-free execution** with TypeScript and modular architecture
-- 📄 **Polished README and demo video** for submission
+
 
 ---
 
@@ -61,6 +61,5 @@ Mangesh – Full-stack developer, rapid prototyper, and creative technologist.
 📌 Passionate about building cross-platform apps, optimizing workflows, and showcasing impactful demos.
 
 
-💡 Ready for review and submission. Sonix is built to impress—technically sound, visually polished, and creatively inspired.
 
 
